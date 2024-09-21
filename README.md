@@ -1,5 +1,5 @@
 - ------------
-- leLaifyy
+- leLaify
 - Java, Python Developer
 - Dev @ OnThePixel.net
 - ------------
