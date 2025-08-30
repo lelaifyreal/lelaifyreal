@@ -1,7 +1,9 @@
 - ------------
 - leLaify
 - Java, Python Developer
-- Dev @ OnThePixel.net
+- Current Projects:
+-  LunaMC.de
+-  Suchtify.net
 - ------------
 
 <!---
